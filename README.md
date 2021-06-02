@@ -1,5 +1,5 @@
 # About Me 👋
-Hello Everyone my name is Ali Haider. I am a student of FAST NUCES batch'17. I am doing BSCS from FAST LHR. 
+Hello Everyone my name is Ali Haider. I am a Final Year Student at Fast Nuces. 
 
 # Expertise 💞️
 - C++ Programming
