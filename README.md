@@ -1,9 +1,18 @@
 
 <h1 align="center">Hi , I'm Ali Haider <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Graduate;Competitive+Programmer;Mobile+Developer;React+Native%20|%20Mongo%20|%20Redux%20;Software+Engineer%20at%20Creditbook;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
+
+## :sassy_man:  About me
+- :school: I am a `Full Stack Software Engineer` at Creditbook
+- :trophy: `FAST NU LHR` Batch 2021
+- :technologist: I am a `React Native` Developer
+- :student: I’m currently learning: `Software Engineering`.
+- :thinking: I’m currently open for: `SSE job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1GPY8uBYppZ-fiDK2qf2pb4_3bVmdneCT/view?usp=sharing).
+- :nerd_face: Always `learning new things`
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
