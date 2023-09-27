@@ -31,10 +31,6 @@
 <a href=https://github.com/AliHaider104?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/AliHaider104?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>  
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alihaider104&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Ali Haider's Github Stats">
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/syed-ali-haider-0708b61b4/" target="blank"><img align="center"
