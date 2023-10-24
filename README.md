@@ -12,7 +12,7 @@
 
 ## :sassy_man:  About me
 - :school: I am a `Full Stack Software Engineer` at Creditbook
-- :trophy: `FAST NU LHR`
+- :trophy: `FAST NU`
 - :technologist: I am a `React Native` Developer
 - :student: I’m currently : `Senior Software Engineer`.
 - :nerd_face: Always `learning new things`
