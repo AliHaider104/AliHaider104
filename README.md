@@ -12,10 +12,9 @@
 
 ## :sassy_man:  About me
 - :school: I am a `Full Stack Software Engineer` at Creditbook
-- :trophy: `FAST NU LHR` Batch 2021
+- :trophy: `FAST NU LHR`
 - :technologist: I am a `React Native` Developer
-- :student: I’m currently learning: `Software Engineering`.
-- :thinking: I’m currently open for: `SSE job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1GPY8uBYppZ-fiDK2qf2pb4_3bVmdneCT/view?usp=sharing).
+- :student: I’m currently : `Senior Software Engineer`.
 - :nerd_face: Always `learning new things`
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
